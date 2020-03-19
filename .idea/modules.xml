@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abang.iml" filepath="$PROJECT_DIR$/Abang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/PaAbang/AbangAppFinal.iml" filepath="$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/PaAbang/AbangAppFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/PaAbang/AbangCapstone.iml" filepath="$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/PaAbang/AbangCapstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/AbangAppFinal/AbangFinal.iml" filepath="$PROJECT_DIR$/../../../Rylai/Desktop/CAPSTONE/AbangAppFinal/AbangFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Pc-user/Desktop/APPS/AbangCapstone/PaAbang.iml" filepath="$PROJECT_DIR$/../../../Pc-user/Desktop/APPS/AbangCapstone/PaAbang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaAbang.iml" filepath="$PROJECT_DIR$/PaAbang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
